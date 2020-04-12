@@ -1,0 +1,135 @@
+/*
+    div {
+        background-color: #cfc;
+        margin: 200px auto; padding: 2px;
+
+    }
+
+    li {
+        float: left;
+        list-style-type: none;
+        margin-right: 20px;
+    }
+
+    .clear {
+        clear: both; padding: 0px;
+        margin: 0px; 
+    }
+*/
+
+body {
+    margin: 0px;
+    font-family: 'mosk 500','Arial', 'Lucida Sans',  'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#Phonebar {
+    background-color: #372323;
+    font-size: 10px;
+    color: #ffe8e8;
+    padding: 1px 0px;
+    text-align: right;
+}
+
+.wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
+.clear {
+    clear: both;
+}
+    h1 {
+        font-family: 'Channel','Geneva';
+        font-size: 28px;
+        color: #ffffff; 
+        text-shadow: 1px 1px #372323;
+        Margin: 0px;
+        float: left;
+    }
+
+    ul {
+        margin: 0;
+        
+    }
+    nav{
+        float: right;
+    }
+    li{
+        list-style-type: none;
+        font-family: 'mosk 700';
+        float: left;
+        font-size: 16px;
+        margin-left: 30px;
+        margin-top: 20px;
+    }
+header {
+    background-color:  #c49494;
+    padding: 15px 0;
+}
+
+#left {
+    float: left;
+    width: 540px;
+}
+    #left h1 {
+        float: none;
+        text-shadow: 0px 0px;
+        font-family: 'mosk 700';
+        color: #372323
+    }
+    img {
+        float: right;
+    }
+
+#important {
+    padding: 40px 0;
+}
+
+#important p {
+    font-size: 14px;
+    line-height: 24px;
+    color: #372323;
+}
+
+#moreimportant {
+    background-image: url(../images/Blurred\ Beans.png); 
+    /*background-repeat: no-repeat;*/
+    background-size: cover;
+    padding: 30px 0px;
+}
+    #lower {
+        float: left;
+        width: 290px;
+        /*padding: 20px 15px;*/
+        margin-right: 30px;
+    }        
+
+    #lower h1 {
+        float: none;
+        text-shadow: 0px 0px;
+        font-family: 'mosk 700';
+        color: #ffc1c1
+    }
+
+    #lower p{
+        color: #ffe8e8;
+        font-size: 14px;
+        line-height: 24px;
+
+    }
+
+footer {
+    background-color: #251818;
+    margin: 0px;
+    padding: 30px 0px;
+    color: #ffe8e8;
+    font-size: 12px;
+   
+}
+    footer p{
+       
+    }
+
+    span {
+        float: right;
+        /*text-align: right;*/
+        }
