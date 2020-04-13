@@ -91,7 +91,7 @@ header {
 }
 
 #moreimportant {
-    background-image: url(../images/Blurred\ Beans.png); 
+    background-image: url(./Blurred\ Beans.png); 
     /*background-repeat: no-repeat;*/
     background-size: cover;
     padding: 30px 0px;
